@@ -1,2 +1,1 @@
-# sorting_algorithms
-group project on Big-O notation
+# 0x1B. C - Sorting algorithms & Big O
